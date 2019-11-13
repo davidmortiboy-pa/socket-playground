@@ -1,0 +1,51 @@
+01CCS
+034
+04wire:sport:golf:stroke-play 2019-11-06T17:00:00.000Z
+05Gutenberg Report Data
+06RSR
+07403
+08PA SPORT DATA
+091
+10GOLF 2
+11aliased: N. Ireland
+12Collated
+14X
+Collated second round scores & totals in the 148th Open Championship, Royal Portrush GC, County Antrim, aliased: N. Ireland
+(N. Ireland unless stated, par 71):
+269 S Lowry (Ireland) 67 67 63 72
+275 T Fleetwood (England) 68 67 66 74
+277 T Finau (USA) 68 70 68 71
+278 B Koepka (USA) 68 69 67 74, L Westwood (England) 68 67 70 73
+279 R Fowler (USA) 70 69 66 74, T Hatton (England) 68 71 71 69, D Willett (England) 74 67 65 73, R MacIntyre (Scotland) 68 72 71 68
+280 P Reed (USA) 71 67 71 71
+281 J Rahm (Spain) 68 70 68 75, A Noren (Sweden) 68 71 68 74, T Lewis (England) 75 68 68 70, F Molinari (Italy) 74 69 72 66, J Thomas (USA) 71 70 68 72
+282 R Fox (New Zealand) 68 75 70 69, S Park (South Korea) 69 72 68 73, L Bjerregaard (Denmark) 70 68 74 70, R Sabbatini (Slovakia) 70 70 71 71
+283 E van Rooyen (South Africa) 70 68 72 73, J Spieth (USA) 70 67 69 77, D Redman (USA) 71 71 71 70, M Fitzpatrick (England) 71 69 70 73, J Rose (England) 69 67 68 79, L Glover (USA) 72 69 71 71, S Cink (USA) 74 68 71 70, C Smith (Australia) 70 66 71 76, L Oosthuizen (South Africa) 70 72 72 69, H Stenson (Sweden) 70 69 68 76
+284 W Simpson (USA) 68 71 71 74, K Kisner (USA) 70 71 70 73
+285 K Aphibarnrat (Thailand) 68 73 77 67, B An (South Korea) 73 67 70 75, A Putnam (USA) 70 67 70 78, A Wilson (England) 76 67 71 71, E Els (South Africa) 71 69 72 73, B Wiesberger (Austria) 70 71 74 70, J Luiten (Netherlands) 73 69 71 72, J Kokrak (USA) 74 69 74 68, D Frittelli (South Africa) 68 69 70 78
+286 M Kuchar (USA) 70 68 69 79, I Hwang (South Korea) 72 71 70 73, B Hebert (France) 73 69 73 71, J Harding (South Africa) 71 65 74 76, C Shinkwin (England) 70 71 75 70, A Wise (USA) 72 69 71 74, R Knox (Scotland) 70 71 68 77, X Schauffele (USA) 74 65 69 78, K Stanley (USA) 75 67 73 71, P Cantlay (USA) 70 71 71 74
+287 D Johnson (USA) 72 67 72 76, S Sharma (India) 70 72 77 68, B Grace (South Africa) 70 71 75 71, C Hoffman (USA) 70 73 70 74, B Watson (USA) 72 71 73 71, M Wallace (England) 73 70 72 72
+288 G McDowell 73 70 68 77, K Streelman (USA) 77 65 74 72, A Hadwin (Canada) 74 69 72 73, A Turner (England) 69 74 77 68, P Casey (England) 72 70 73 73, T Olesen (Denmark) 72 68 77 71
+289 J Furyk (USA) 73 68 75 73, R Langasque (France) 69 72 70 78, P Waring (England) 75 68 75 71, M Korhonen (Finland) 72 69 71 77
+290 S Garcia (Spain) 68 73 71 78, J Holmes (USA) 66 68 69 87, T Pieters (Belgium) 72 68 74 76, Y Asaji (Japan) 72 71 71 76
+292 E Pepperell (England) 70 72 76 74
+293 N Bertasio (Italy) 72 71 75 75, Y Inamori (Japan) 70 73 70 80
+Cut to take place at end of Round 2 for scores of no more than 143
+
+All players below missed the cut
+
+144 C Syme (Scotland) 72 72, B Snedeker (USA) 74 70, T Kanaya (Japan) 73 71, N Lashley (USA) 75 69, K Bradley (USA) 73 71, A Johnston (England) 73 71, J Sugrue (Ireland) 71 73, A Levy (France) 73 71, K Mitchell (USA) 75 69, J Day (Australia) 70 74, A Ancer (Mexico) 72 72, R McIlroy 79 65, B Harman (USA) 72 72
+145 H Matsuyama (Japan) 71 74, D Clarke 71 74, C Reavie (USA) 73 72, S Kim (South Korea) 70 75, A Otaegui (Spain) 73 72, D Jang (South Korea) 76 69, G Woodland (USA) 74 71, P Harrington (Ireland) 75 70, C Bezuidenhout (South Africa) 74 71, K Kitayama (USA) 74 71, C Wood (England) 73 72
+146 Z Johnson (USA) 74 72, J Senior (England) 75 71, S Kang (South Korea) 74 72, Y Fujimoto (Japan) 75 71, M Baldwin (England) 78 68, D Mun (South Korea) 74 72, H Li (China) 74 72, P Kizzire (USA) 73 73, D Lipsky (USA) 74 72
+147 J McLeod (Australia) 76 71, B Horschel (USA) 76 71, M Horikawa (Japan) 71 76, R Rock (England) 76 71, P Lawrie (Scotland) 75 72, B Stone (South Africa) 72 75, M Schmid (Germany) 76 71, B DeChambeau (USA) 74 73, J Niemann (Chile) 76 71, A Bjoerk (Sweden) 77 70, I Benitez (Mexico) 75 72, J Janewattananond (Thailand) 74 73
+148 T Woods (USA) 78 70, J Walker (USA) 74 74, C Conners (Canada) 72 76, O Wilson (England) 73 75, J Dahmen (USA) 76 72, G Charoenkul (Thailand) 72 76, Z Lombard (South Africa) 71 77, R Cabrera (Spain) 73 75
+149 C Kim (USA) 75 74, A Pavan (Italy) 73 76, R Palmer (USA) 74 75, I Poulter (England) 75 74, S Norris (South Africa) 73 76, J Campillo (Spain) 76 73, B Wu (USA) 73 76, L List (USA) 73 76
+150 M Lorenzo-Vera (France) 77 73, A Arnaus (Spain) 75 75, M Leishman (Australia) 78 72, P Mickelson (USA) 76 74
+151 Y Ikeda (Japan) 76 75, S Im (South Korea) 71 80, C Pan (Taiwan) 77 74, C Knipes (England) 72 79, A Scott (Australia) 78 73, R Sterne (South Africa) 78 73, A Sullivan (England) 76 75
+152 S Locke (Scotland) 75 77, G Porteous (England) 79 73, S Imahira (Japan) 83 69, E Grillo (Argentina) 73 79
+154 T Lehman (USA) 78 76, A Connelly (Canada) 75 79, P Meesawat (Thailand) 73 81
+155 D Papadatos (Australia) 83 72, M Jimenez (Spain) 82 73
+156 T Thurloway (England) 83 73
+169 D Duval (USA) 91 78
+ends
+
